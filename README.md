@@ -1,1 +1,1 @@
-git config --global user.email "user@example.com"# bangkit2023
+# Repository for Bangkit Academy 2023
